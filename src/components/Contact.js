@@ -65,7 +65,7 @@ const Contact = () => {
                     <div class="row">
                       <div class="col-sm-12">
                         <div class="single-contact-btn">
-                          <a class="contact-btn" href="#" role="button">
+                          <a class="contact-btn" href="/#" role="button">
                             submit
                           </a>
                         </div>
@@ -100,17 +100,17 @@ const Contact = () => {
                 <div class="hm-foot-icon">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a href="/#">
                         <i class="fa fa-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/#">
                         <i class="fa fa-dribbble"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/#">
                         <i class="fa fa-twitter"></i>
                       </a>
                     </li>
@@ -120,7 +120,7 @@ const Contact = () => {
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/#">
                         <i class="fa fa-instagram"></i>
                       </a>
                     </li>
